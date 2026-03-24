@@ -32,8 +32,7 @@ Tenho grande foco em arquitetura de sistemas, otimização de desempenho, boas p
 ---
 
 ### Formações Comuns
-![Selo de Certificado Azure](https://learn.microsoft.com/api/achievements/share/pt-br/CAIOEDUARDOFERRARIMIRANDA-9353/XEH4JS2Y?sharingId=9B71E193A939292)
-
+[Meu certificado Microsoft Azure](https://learn.microsoft.com/api/achievements/share/pt-br/CAIOEDUARDOFERRARIMIRANDA-9353/XEH4JS2Y?sharingId=9B71E193A939292)
 ## 🛠️ Stack de tecnologias
 
 ### Frontend
